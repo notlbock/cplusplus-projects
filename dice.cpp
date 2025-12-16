@@ -1,5 +1,5 @@
 /* run it:
-~/Downloads
+cd ~/Downloads
 clang++ dice.cpp -o dice_game
 */
 
