@@ -1,3 +1,8 @@
+/* run it:
+~/Downloads
+clang++ dice.cpp -o dice_game
+*/
+
 #include <iostream>
 #include <string>
 #include <random>
@@ -41,3 +46,5 @@ int main() {
 
     return 0;
 }
+
+// error: error reading 'rand.cpp'
